@@ -1,1 +1,0 @@
-# Challenge 1: Putting on a Drone Show
